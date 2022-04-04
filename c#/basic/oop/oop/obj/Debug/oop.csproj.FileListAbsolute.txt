@@ -1,0 +1,7 @@
+D:\training\c#\basic\oop\oop\bin\Debug\oop.exe.config
+D:\training\c#\basic\oop\oop\bin\Debug\oop.exe
+D:\training\c#\basic\oop\oop\bin\Debug\oop.pdb
+D:\training\c#\basic\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+D:\training\c#\basic\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\training\c#\basic\oop\oop\obj\Debug\oop.exe
+D:\training\c#\basic\oop\oop\obj\Debug\oop.pdb
